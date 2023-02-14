@@ -1,3 +1,1 @@
-Sh
-
-ell, init files, variables and expansions ls
+Shell, init files, variables and expansions
